@@ -278,3 +278,4 @@ pip/
 .pip
 pip.exe
 virt/Scripts
+*.cfg
